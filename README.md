@@ -14,24 +14,16 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Ola, me chamo
+        <samp>&gt; SEJA BEM-VINDO(A), me chamo
                 <b><a target="_blank" href="https://Luiz-BG.com">Luiz</a></b>
         </samp>
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 Sou um desenvolvedor de <b>São Paulo</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
 
 <div align="center">
+    <img width="200" height="200"src="https://github.com/Luiz-BG/Luiz-BG/assets/115050744/d34fa037-e8c2-41ec-8ad5-a62569495bac">
 
-![[LinkedIn](https://www.linkedin.com/in/luizeduardobritogomes/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </div>
 <br />
 
@@ -40,10 +32,13 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Gosto de trocar e compartilhar conhecimento<br/><br/>
- ❤️ &emsp; Amo codar, aprender e planejar<br/><br/>
- 👨‍💻 &emsp; Estou atuando como estagiário DEV na areá de serviços da empresa TOTVS<br/><br/>
+   👋🏻 &emsp; Meu nome é Luiz Eduardo Brito Gomes<br/><br/>
+   📍 &emsp; Resido atualmente na Zona Leste de São Paulo<br/><br/>
+   🎂 &emsp; Tenho 21 anos de idade<br/><br/>
+ 👨‍💻 &emsp; Estou atuando como estagiário DEV na área de serviços da empresa TOTVS<br/><br/>
+ ✌️ &emsp; No tempo livre, curto assistir animações, tocar violão e jogar<br/><br/>
+ ❤️ &emsp; Amo animes como One Piece e Vinland Saga, filmes como Aranhaverso e músicas como Rap, MPB e Jazz<br/><br/>
+ 
 
 </p>
 
@@ -52,7 +47,6 @@
 ## Uso para codar
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
@@ -77,5 +71,3 @@
   <br/>
 </a>
 
-
-![Grafico LUIZ](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-BG&custom_title=Grafico%20de%20atividade%20de%20Luiz-BG&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
