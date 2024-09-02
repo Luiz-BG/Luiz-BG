@@ -33,11 +33,12 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  👋🏻 &emsp; Meu nome completo é Luiz Eduardo Brito Gomes<br/><br/>
- 📍 &emsp; Resido atualmente na Zona Leste de São Paulo<br/><br/>
+ 📍 &emsp; Resido atualmente na Zona Leste de São Paulo, capital<br/><br/>
  🎂 &emsp; Tenho 21 anos de idade<br/><br/>
- 👨‍💻 &emsp; Estou atuando como estagiário DEV na área de serviços da empresa TOTVS<br/><br/>
+ 📕 &emsp; Estou no 8º semestre do curso de Sistemas de Informação da FIAP (EAD)<br/><br/>
+ 👨‍💻 &emsp; Estou atuando como estagiário DEV na área de serviços, da empresa TOTVS<br/><br/>
  ✌️ &emsp; No tempo livre, curto assistir animações, tocar violão e jogar<br/><br/>
- ❤️ &emsp; Amo animes como One Piece e Vinland Saga, filmes como Aranhaverso e músicas como Rap, MPB e Jazz<br/><br/>
+ ❤️ &emsp; Amo animes como One Piece, Vinland Saga e JoJo, filmes como Homem Aranha no Aranhaverso e artistas como Kendrick Lamar, MF DOOM e Nujabes<br/><br/>
  
 
 </p>
