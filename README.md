@@ -38,7 +38,7 @@
  📕 &emsp; Estou no 8º semestre do curso de Sistemas de Informação da FIAP (EAD)<br/><br/>
  👨‍💻 &emsp; Estou atuando como estagiário DEV na área de serviços, da empresa TOTVS<br/><br/>
  ✌️ &emsp; No tempo livre, curto assistir animações, tocar violão e jogar<br/><br/>
- ❤️ &emsp; Amo animes como One Piece, Vinland Saga e JoJo, filmes como Homem Aranha no Aranhaverso e artistas como Kendrick Lamar, MF DOOM e Nujabes<br/><br/>
+ ❤️ &emsp; Amo animes como One Piece, Vinland Saga e JoJo e artistas como Kendrick Lamar, MF DOOM e Nujabes<br/><br/>
  
 
 </p>
