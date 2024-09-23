@@ -62,12 +62,10 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/luizeduardobrit
 
 <a> 
     <img
-        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-BG&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     <img
-        align="right"
         src="https://github-readme-stats.vercel.app/api?username=luiz-bg&theme=dark"
         alt="Github Stats"
       />
