@@ -1,14 +1,9 @@
-<h3 align="center">
-        <samp>&gt; Hello World! Eu me chamo
-                <b><a target="_blank" href="https://luizeduardobg.netlify.app/">Luiz</a></b>
-        </samp>
-</h3>
-
-
+<div align="center">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=0DB03F&width=435&lines=%E2%9C%98+Hello+World!+Eu+me+chamo+Luiz+%E2%9C%98" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
     <img width="200" height="200"src="https://github.com/Luiz-BG/Luiz-BG/assets/115050744/d34fa037-e8c2-41ec-8ad5-a62569495bac">
-
 </div>
 <br />
 
