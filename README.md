@@ -1,9 +1,9 @@
 <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=0DB03F&width=435&lines=%E2%9C%98+Hello+World!+Eu+me+chamo+Luiz+%E2%9C%98" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=FFFFFF&width=435&lines=%E2%9C%98+Hello+World!+Eu+me+chamo+Luiz+%E2%9C%98" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-    <img width="200" height="200"src="https://github.com/Luiz-BG/Luiz-BG/assets/115050744/d34fa037-e8c2-41ec-8ad5-a62569495bac">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 <br />
 
@@ -52,18 +52,5 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/luizeduardobrit
 <br/>
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <br/>
-
-
-
-<a> 
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-BG&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=luiz-bg&theme=dark"
-        alt="Github Stats"
-      />
-  <br/>
-</a>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-BG&theme=dark&hide_border=false" alt="Github Stats"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-BG&theme=dark&hide_progress=true" alt="activity-graph graph"/></p>
