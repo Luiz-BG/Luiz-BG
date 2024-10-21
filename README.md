@@ -39,7 +39,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fcgh3-2.fna.fbcdn.net/v/t39.30808-6/300575911_530057055591007_9087212450089710160_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=cSzUZr6IVrcQ7kNvgFr4jCb&_nc_ht=scontent.fcgh3-2.fna&_nc_gid=ACpXIOnMPPeTWZkoZle83TE&oh=00_AYCNPGlemmyNiK0ZX01w8rkM4USNWl11f2dLTUrNp2OLEQ&oe=66F7552D"/>](https://sudestemeridional.totvs.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png"/>](https://sudestemeridional.totvs.com/)
 
 **Desenvolvedor de Software** \
 [**TOTVS**](https://sudestemeridional.totvs.com/) • Estagiário \
