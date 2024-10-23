@@ -16,9 +16,13 @@
  🎂 &emsp; Tenho 21 anos de idade<br/><br/>
  📕 &emsp; Estou no 8º semestre do curso de Sistemas de Informação da FIAP (EAD)<br/><br/>
  ✌️ &emsp; No tempo livre, curto treinar, tocar violão e jogar<br/><br/>
- ❤️ &emsp; Amo animes como One Piece, Vinland Saga e JoJo e artistas como Kendrick Lamar, MF DOOM e Nujabes<br/><br/>
+ ❤️ &emsp; Amo animes como One Piece, Vinland Saga, JoJo e séries como The Boys e Invencible<br/><br/>
+ 🎵 &emsp; Escutando agora: 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wbs3q34ol2bjit0k0xv42hg8a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </p>
 <br/>
+
 
 ## Utilizo para codar
 
