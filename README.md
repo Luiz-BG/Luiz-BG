@@ -43,7 +43,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png"/>](https://sudestemeridional.totvs.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://assets.hgbrasil.com/finance/companies/big/totvs.png"/>](https://sudestemeridional.totvs.com/)
 
 **Desenvolvedor de Software** \
 [**TOTVS**](https://sudestemeridional.totvs.com/) • Estagiário \
