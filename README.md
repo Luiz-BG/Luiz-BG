@@ -14,7 +14,7 @@
  👋🏻 &emsp; Meu nome completo é Luiz Eduardo Brito Gomes<br/><br/>
  📍 &emsp; Resido atualmente na Zona Leste de São Paulo, capital<br/><br/>
  🎂 &emsp; Tenho 21 anos de idade<br/><br/>
- 📕 &emsp; Estou no 8º semestre do curso de Sistemas de Informação da FIAP (EAD)<br/><br/>
+ 📕 &emsp; Cursei o bacharelado de Sistemas de Informação da FIAP (EAD)<br/><br/>
  ✌️ &emsp; No tempo livre, curto treinar, tocar violão e jogar<br/><br/>
  ❤️ &emsp; Amo animes como One Piece, Vinland Saga, JoJo, AOT, Bleach e séries como The Boys, Invencible e Arcane<br/><br/>
  🎵 &emsp; Escutando agora: 
@@ -46,7 +46,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://assets.hgbrasil.com/finance/companies/big/totvs.png"/>](https://sudestemeridional.totvs.com/)
 
 **Desenvolvedor de Software** \
-[**TOTVS**](https://sudestemeridional.totvs.com/) • Estagiário \
+[**TOTVS**](https://sudestemeridional.totvs.com/) • CLT \
 Linguagens & Tecnologias: `JavaScript`, `HTML`, `CSS`, `Tailwind`,`GIT`, `SOAP`, `PostMan`,`Eclipse`, `VSCode`\
 Localização da empresa: Santo André, São Paulo
 <br/>
